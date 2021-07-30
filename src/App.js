@@ -11,7 +11,11 @@ const App = () => {
     <div className="App">
       <NavigationBar />
       <Header />
-      <Project />
+      <div className="flex-container">
+        <Project />
+        <Project />
+        <Project />
+      </div>
       <Footer />
     </div>
   );

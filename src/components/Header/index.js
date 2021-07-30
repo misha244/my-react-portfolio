@@ -1,6 +1,8 @@
 const Header = () => {
   return (
-    <header>*record scratch* You're probably wondering how I got here..</header>
+    <header>
+      <h1>*record scratch* You're probably wondering how I got here..</h1>
+    </header>
   );
 };
 

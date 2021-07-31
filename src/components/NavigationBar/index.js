@@ -5,15 +5,16 @@ import "./NavigationBar.css";
 
 const NavigationBar = () => {
   return (
-    <Navbar bg="success" expand="lg">
+    <Navbar className="navbar">
       <Container>
         <Nav>
-          <Nav.Link>Home</Nav.Link>
-          <Nav.Link>Portfolio</Nav.Link>
+          <Nav.Link href="/">Home</Nav.Link>
+          <Nav.Link href="/about">About me</Nav.Link>
         </Nav>
         <Nav>
+          <Nav.Link href="/portfolio">Portfolio</Nav.Link>
           <Nav.Link>CV</Nav.Link>
-          <Nav.Link>Contact me</Nav.Link>
+          <Nav.Link href="/contact">Contact me</Nav.Link>
         </Nav>
       </Container>
     </Navbar>

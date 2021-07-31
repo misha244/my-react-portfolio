@@ -1,0 +1,11 @@
+:root {
+  --riflegreen: #414833;
+  --bone: #cbcdb6;
+  --goldmetallic: #dcb62e;
+  --jet: #333533;
+}
+
+.navbar {
+  background-color: var(--riflegreen);
+  color: var(--bone);
+}

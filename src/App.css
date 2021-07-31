@@ -1,3 +1,10 @@
+:root {
+  --riflegreen: #414833;
+  --bone: #cbcdb6;
+  --goldmetallic: #dcb62e;
+  --jet: #333533;
+}
+
 .App {
-  background-color: darkseagreen;
+  background-color: var(--bone);
 }

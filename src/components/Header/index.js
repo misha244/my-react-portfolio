@@ -1,12 +1,10 @@
 import Image from "react-bootstrap/Image";
-import collage from "./collage.png";
+import collage2 from "./collage2.png";
 
 const Header = () => {
   return (
     <header>
-      <h1>*record scratch* You're probably wondering how I got here..</h1>
-
-      <Image src={collage}></Image>
+      <Image src={collage2}></Image>
     </header>
   );
 };

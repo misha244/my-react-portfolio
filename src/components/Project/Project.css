@@ -1,4 +1,14 @@
+:root {
+  --riflegreen: #414833;
+  --bone: #cbcdb6;
+  --goldmetallic: #dcb62e;
+  --jet: #333533;
+}
+
 .card-container {
+  margin: 2rem;
   height: 15rem;
   width: 15rem;
+  border: 5px solid var(--goldmetallic);
+  background-color: var(--goldmetallic);
 }

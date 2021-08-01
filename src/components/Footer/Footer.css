@@ -6,6 +6,7 @@
 }
 
 .footer {
-  background-color: var(--riflegreen);
+  background-color: var(--jet);
   color: var(--bone);
+  justify-content: center;
 }

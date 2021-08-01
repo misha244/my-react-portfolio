@@ -6,5 +6,6 @@
 }
 
 .App {
-  background-color: var(--bone);
+  background-color: var(--riflegreen);
+  height: 100vh;
 }

@@ -4,8 +4,3 @@
   --goldmetallic: #dcb62e;
   --jet: #333533;
 }
-
-.navbar {
-  background-color: var(--riflegreen);
-  font-size: larger;
-}

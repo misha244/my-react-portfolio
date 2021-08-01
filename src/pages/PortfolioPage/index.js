@@ -1,11 +1,14 @@
+import CardGroup from "react-bootstrap/CardGroup";
+
 import Project from "../../components/Project";
+
 const PortfolioPage = (props) => {
   return (
-    <div className="flex-container">
+    <CardGroup>
       <Project />
       <Project />
       <Project />
-    </div>
+    </CardGroup>
   );
 };
 

@@ -1,0 +1,14 @@
+:root {
+  --riflegreen: #414833;
+  --bone: #cbcdb6;
+  --goldmetallic: #dcb62e;
+  --jet: #333533;
+}
+
+.header-container {
+  background-color: var(--bone);
+}
+.image-container {
+  width: 80vw;
+  margin: auto;
+}

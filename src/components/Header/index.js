@@ -1,10 +1,14 @@
 import Image from "react-bootstrap/Image";
-import collage2 from "./collage2.png";
+import mishabnw from "./mishabnw.png";
+
+import "./Header.css";
 
 const Header = () => {
   return (
-    <header>
-      <Image src={collage2}></Image>
+    <header className="header-container">
+      <div className="image-container">
+        <Image src={mishabnw} fluid></Image>
+      </div>
     </header>
   );
 };

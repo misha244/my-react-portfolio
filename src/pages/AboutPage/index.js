@@ -1,11 +1,11 @@
-import CropHeader from "../../components/CropHeader";
+import Header from "../../components/Header";
 
 import "./AboutPage.css";
 
 const AboutPage = (props) => {
   return (
     <div>
-      <CropHeader />
+      <Header />
       <div className="about-container">
         <section className="about-text">
           Hi, everyone. I'm Misha, I'm 26, from Bulgaria and I'm currently

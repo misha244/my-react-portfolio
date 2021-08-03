@@ -6,9 +6,22 @@
 }
 
 .card-container {
+  text-align: center;
   margin: 2rem;
   height: 20rem;
   width: 16rem;
   border: 5px solid var(--lavender);
   background-color: var(--lavender);
+}
+.title {
+  font-size: 2rem;
+}
+.description {
+  height: 10rem;
+}
+.links {
+  text-decoration: none;
+  color: var(--jet);
+  padding: 0.3rem;
+  font-weight: bold;
 }

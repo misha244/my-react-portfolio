@@ -11,18 +11,26 @@ const Project = (props) => {
         alt={props.data.imageAlt}
       />
       <Card.Body>
-        <Card.Title>{props.data.title}</Card.Title>
-        <Card.Text>{props.data.description}</Card.Text>
-        <Card.Link>
-          <a href={props.data.githubLink} target="_blank" rel="noreferrer">
-            See the project's repo
+        <Card.Title className="title">{props.data.title}</Card.Title>
+        <Card.Text className="description">{props.data.description}</Card.Text>
+        <div>
+          <a
+            className="links"
+            href={props.data.githubLink}
+            target="_blank"
+            rel="noreferrer"
+          >
+            PROJECT REPO
           </a>
-        </Card.Link>
-        <Card.Link>
-          <a href={props.data.deployedLink} target="_blank" rel="noreferrer">
-            See the project in action
+          <a
+            className="links"
+            href={props.data.deployedLink}
+            target="_blank"
+            rel="noreferrer"
+          >
+            PROJECT IN ACTION
           </a>
-        </Card.Link>
+        </div>
       </Card.Body>
     </Card>
   );

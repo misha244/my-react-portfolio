@@ -8,6 +8,7 @@ const ContactPage = (props) => {
     <div>
       <Header />
       <h3 className="title-container">GET IN TOUCH WITH ME</h3>
+
       <ContactForm />
     </div>
   );

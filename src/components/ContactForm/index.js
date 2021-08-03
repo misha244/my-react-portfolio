@@ -1,13 +1,16 @@
 import Form from "react-bootstrap/Form";
 import Button from "react-bootstrap/Button";
 import Container from "react-bootstrap/Container";
+import Image from "react-bootstrap/Image";
+import phoneme from "./phoneme.png";
 
 import "./ContactForm.css";
 
 const ContactForm = () => {
   return (
     <Container className="contact-form-container">
-      <Form>
+      <Image src={phoneme} className="phoneimg"></Image>
+      <Form className="contact-form">
         <Form.Group className="mb-3" controlId="formBasicName">
           <Form.Label>YOUR NAME</Form.Label>
           <Form.Control type="input" placeholder="ENTER NAME" />

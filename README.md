@@ -16,4 +16,6 @@ This my first React project, and it is my Portfolio. After building one with onl
 
 ## Screenshots
 
+![Portfolio](src/assets/images/readme.png)
+
 ## Fin

@@ -1,12 +1,12 @@
 import CardGroup from "react-bootstrap/CardGroup";
-import CropHeader from "../../components/CropHeader";
+import Header from "../../components/Header";
 
 import Project from "../../components/Project";
 
 const PortfolioPage = (props) => {
   return (
     <div>
-      <CropHeader />
+      <Header />
       <CardGroup>
         <Project />
         <Project />

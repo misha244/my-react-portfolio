@@ -6,12 +6,14 @@
 }
 
 .about-container {
-  background-color: var(--lavender);
+  background-color: var(--riflegreen);
+  width: 50vw;
   height: 50vh;
+  margin: auto;
 }
 .about-text {
-  background-color: var(--lavender);
-  color: var(--jet);
+  background-color: var(--riflegreen);
+  color: var(--lavender);
   padding: 5rem;
   font-size: large;
   font-weight: normal;

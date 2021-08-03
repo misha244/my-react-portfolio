@@ -11,9 +11,24 @@ const NavigationBar = () => {
       <Navbar>
         <Container>
           <Nav className="navbar">
-            <Link to="/">HOME</Link>
-            <Link to="/portfolio">PROJECTS</Link>
-            <Link to="/contact">CONTACT</Link>
+            <Link
+              to="/"
+              style={{ color: "inherit", textDecoration: "inherit" }}
+            >
+              HOME
+            </Link>
+            <Link
+              to="/portfolio"
+              style={{ color: "inherit", textDecoration: "inherit" }}
+            >
+              PROJECTS
+            </Link>
+            <Link
+              to="/contact"
+              style={{ color: "inherit", textDecoration: "inherit" }}
+            >
+              CONTACT
+            </Link>
           </Nav>
         </Container>
       </Navbar>

@@ -6,8 +6,11 @@
 }
 
 .footer {
-  background-color: var(--jet);
-  color: var(--bone);
   justify-content: center;
-  position: absolute;
+  color: var(--bone);
+  background-color: var(--jet);
+  padding-top: 3rem;
+}
+.text {
+  text-decoration: line-through;
 }

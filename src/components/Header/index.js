@@ -1,14 +1,14 @@
 import Image from "react-bootstrap/Image";
-import mishabnw from "./mishabnw.png";
-import extrasbnw from "./extrasbnw.png";
+import mishabnwcrop from "./mishabnwcrop.png";
+import extrasbnwcrop from "./extrasbnwcrop.png";
 
 import "./Header.css";
 
 function changeImage(e) {
-  e.target.src = extrasbnw;
+  e.target.src = extrasbnwcrop;
 }
 function changeBack(e) {
-  e.target.src = mishabnw;
+  e.target.src = mishabnwcrop;
 }
 
 const Header = () => {
@@ -16,7 +16,7 @@ const Header = () => {
     <header className="header-container">
       <div className="image-container">
         <Image
-          src={mishabnw}
+          src={mishabnwcrop}
           fluid
           onMouseOver={changeImage}
           onMouseLeave={changeBack}

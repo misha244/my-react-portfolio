@@ -8,16 +8,16 @@ import AboutPage from "./pages/AboutPage";
 const Routes = () => {
   return (
     <Switch>
-      <Route path="/portfolio">
+      <Route exact path="/portfolio">
         <PortfolioPage />
       </Route>
-      <Route path="/contact">
+      <Route exact path="/contact">
         <ContactPage />
       </Route>
-      <Route path="/about">
+      <Route exact path="/about">
         <AboutPage />
-      </Route>{" "}
-      <Route path="/">
+      </Route>
+      <Route exact path="/">
         <HomePage />
       </Route>
     </Switch>

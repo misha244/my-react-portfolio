@@ -1,7 +1,7 @@
 :root {
   --riflegreen: #414833;
   --bone: #cbcdb6;
-  --goldmetallic: #dcb62e;
+  --lavender: #e2dae7;
   --jet: #333533;
 }
 
@@ -9,4 +9,5 @@
   background-color: var(--jet);
   color: var(--bone);
   justify-content: center;
+  position: absolute;
 }

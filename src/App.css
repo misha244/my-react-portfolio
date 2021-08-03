@@ -1,11 +1,17 @@
 :root {
   --riflegreen: #414833;
   --bone: #cbcdb6;
-  --goldmetallic: #dcb62e;
+  --lavender: #e2dae7;
   --jet: #333533;
 }
 
+:root {
+  background-color: var(--riflegreen);
+}
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
 .App {
   background-color: var(--riflegreen);
-  height: 100vh;
 }

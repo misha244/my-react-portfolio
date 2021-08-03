@@ -5,10 +5,9 @@
   --jet: #333533;
 }
 
-.card-container {
-  margin: 2rem;
-  height: 15rem;
-  width: 10vw;
-  border: 5px solid var(--lavender);
+.title-container {
   background-color: var(--lavender);
+  color: var(--riflegreen);
+  text-align: center;
+  padding: 2rem;
 }

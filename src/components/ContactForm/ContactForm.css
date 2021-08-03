@@ -5,9 +5,8 @@
   --jet: #333533;
 }
 
-.header-container {
-  background-color: var(--bone);
-}
-.image-container {
-  margin: auto;
+.contact-form-container {
+  width: 70vw;
+  color: var(--bone);
+  padding: 5rem;
 }

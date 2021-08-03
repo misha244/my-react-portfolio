@@ -1,6 +1,19 @@
 :root {
   --riflegreen: #414833;
   --bone: #cbcdb6;
-  --goldmetallic: #dcb62e;
+  --lavender: #e2dae7;
   --jet: #333533;
+}
+
+.about-container {
+  background-color: var(--lavender);
+  height: 50vh;
+}
+.about-text {
+  background-color: var(--lavender);
+  color: var(--jet);
+  padding: 5rem;
+  font-size: large;
+  font-weight: normal;
+  margin: auto;
 }

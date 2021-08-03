@@ -1,11 +1,11 @@
 :root {
   --riflegreen: #414833;
   --bone: #cbcdb6;
-  --goldmetallic: #dcb62e;
+  --lavender: #e2dae7;
   --jet: #333533;
 }
 
 .navbar {
-  background-color: var(--riflegreen);
-  font-size: larger;
+  background-color: var(--bone);
+  font-size: 1.5rem;
 }

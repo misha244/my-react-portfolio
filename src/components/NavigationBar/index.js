@@ -6,19 +6,19 @@ import "./NavigationBar.css";
 
 const NavigationBar = () => {
   return (
-    <Navbar>
-      <Container className="navbar">
-        <Nav>
-          <Nav.Link href="/">Home</Nav.Link>
-          <Nav.Link href="/about">About me</Nav.Link>
-        </Nav>
-        <Nav>
-          <Nav.Link href="/portfolio">Portfolio</Nav.Link>
-          <Nav.Link>CV</Nav.Link>
-          <Nav.Link href="/contact">Contact me</Nav.Link>
-        </Nav>
-      </Container>
-    </Navbar>
+    <div>
+      <Navbar>
+        <Container>
+          <Nav className="navbar">
+            <Nav.Link href="/">HOME</Nav.Link>
+            <Nav.Link href="/about">ABOUT</Nav.Link>
+            <Nav.Link href="/portfolio">PROJECTS</Nav.Link>
+            <Nav.Link>CV</Nav.Link>
+            <Nav.Link href="/contact">CONTACT</Nav.Link>
+          </Nav>
+        </Container>
+      </Navbar>
+    </div>
   );
 };
 

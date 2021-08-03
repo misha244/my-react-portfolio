@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/my-react-portfolio/static/css/main.662c9225.chunk.css",
-    "main.js": "/my-react-portfolio/static/js/main.ddfaa316.chunk.js",
-    "main.js.map": "/my-react-portfolio/static/js/main.ddfaa316.chunk.js.map",
+    "main.css": "/my-react-portfolio/static/css/main.c1d5950c.chunk.css",
+    "main.js": "/my-react-portfolio/static/js/main.84a69908.chunk.js",
+    "main.js.map": "/my-react-portfolio/static/js/main.84a69908.chunk.js.map",
     "runtime-main.js": "/my-react-portfolio/static/js/runtime-main.3b168e52.js",
     "runtime-main.js.map": "/my-react-portfolio/static/js/runtime-main.3b168e52.js.map",
-    "static/js/2.eea11fb3.chunk.js": "/my-react-portfolio/static/js/2.eea11fb3.chunk.js",
-    "static/js/2.eea11fb3.chunk.js.map": "/my-react-portfolio/static/js/2.eea11fb3.chunk.js.map",
+    "static/js/2.30eda6d2.chunk.js": "/my-react-portfolio/static/js/2.30eda6d2.chunk.js",
+    "static/js/2.30eda6d2.chunk.js.map": "/my-react-portfolio/static/js/2.30eda6d2.chunk.js.map",
     "index.html": "/my-react-portfolio/index.html",
-    "static/css/main.662c9225.chunk.css.map": "/my-react-portfolio/static/css/main.662c9225.chunk.css.map",
-    "static/js/2.eea11fb3.chunk.js.LICENSE.txt": "/my-react-portfolio/static/js/2.eea11fb3.chunk.js.LICENSE.txt",
+    "static/css/main.c1d5950c.chunk.css.map": "/my-react-portfolio/static/css/main.c1d5950c.chunk.css.map",
+    "static/js/2.30eda6d2.chunk.js.LICENSE.txt": "/my-react-portfolio/static/js/2.30eda6d2.chunk.js.LICENSE.txt",
     "static/media/extrasbnwcrop.6bff60be.png": "/my-react-portfolio/static/media/extrasbnwcrop.6bff60be.png",
-    "static/media/mishabnwcrop.b6add21c.png": "/my-react-portfolio/static/media/mishabnwcrop.b6add21c.png"
+    "static/media/mishabnwcrop.b6add21c.png": "/my-react-portfolio/static/media/mishabnwcrop.b6add21c.png",
+    "static/media/phoneme.254428d1.png": "/my-react-portfolio/static/media/phoneme.254428d1.png",
+    "static/media/techblog.6c6c5511.png": "/my-react-portfolio/static/media/techblog.6c6c5511.png",
+    "static/media/veganpals.7a201609.png": "/my-react-portfolio/static/media/veganpals.7a201609.png",
+    "static/media/workouttracker.64ad6d50.png": "/my-react-portfolio/static/media/workouttracker.64ad6d50.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3b168e52.js",
-    "static/js/2.eea11fb3.chunk.js",
-    "static/css/main.662c9225.chunk.css",
-    "static/js/main.ddfaa316.chunk.js"
+    "static/js/2.30eda6d2.chunk.js",
+    "static/css/main.c1d5950c.chunk.css",
+    "static/js/main.84a69908.chunk.js"
   ]
 }

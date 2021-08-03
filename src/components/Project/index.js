@@ -6,6 +6,7 @@ const Project = (props) => {
   return (
     <Card className="card-container">
       <Card.Img
+        className="image"
         variant="top"
         src={props.data.image}
         alt={props.data.imageAlt}

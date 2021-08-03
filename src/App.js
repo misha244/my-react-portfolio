@@ -1,4 +1,4 @@
-import { BrowserRouter as Router } from "react-router-dom";
+import { HashRouter as Router } from "react-router-dom";
 
 import Routes from "./Routes";
 
@@ -8,12 +8,10 @@ import "./App.css";
 
 const App = () => {
   return (
-    <div className="App">
-      <Router>
-        <NavigationBar />
-        <Routes />
-      </Router>
-    </div>
+    <Router basename="/">
+      <NavigationBar />
+      <Routes />
+    </Router>
   );
 };
 

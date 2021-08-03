@@ -8,6 +8,9 @@ import AboutPage from "./pages/AboutPage";
 const Routes = () => {
   return (
     <Switch>
+      <Route exact path="/">
+        <HomePage />
+      </Route>
       <Route exact path="/portfolio">
         <PortfolioPage />
       </Route>
@@ -16,9 +19,6 @@ const Routes = () => {
       </Route>
       <Route exact path="/about">
         <AboutPage />
-      </Route>
-      <Route exact path="/">
-        <HomePage />
       </Route>
     </Switch>
   );

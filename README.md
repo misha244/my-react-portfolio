@@ -12,6 +12,8 @@
 
 ## About my Project
 
+This my first React project, and it is my Portfolio. After building one with only HTML/CSS, I've built this one using React and React Boostrap as my CSS framework. This portfolio showcases some of the projects I've worked on so far, and as I continue working on my coding skills and new technologies, I will be updating it accordingly
+
 ## Screenshots
 
 ## Fin

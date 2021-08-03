@@ -1,24 +1,22 @@
 {
   "files": {
-    "main.css": "/my-react-portfolio/static/css/main.04a5e723.chunk.css",
-    "main.js": "/my-react-portfolio/static/js/main.7908cd82.chunk.js",
-    "main.js.map": "/my-react-portfolio/static/js/main.7908cd82.chunk.js.map",
+    "main.css": "/my-react-portfolio/static/css/main.662c9225.chunk.css",
+    "main.js": "/my-react-portfolio/static/js/main.ddfaa316.chunk.js",
+    "main.js.map": "/my-react-portfolio/static/js/main.ddfaa316.chunk.js.map",
     "runtime-main.js": "/my-react-portfolio/static/js/runtime-main.3b168e52.js",
     "runtime-main.js.map": "/my-react-portfolio/static/js/runtime-main.3b168e52.js.map",
-    "static/js/2.9a2ba8f3.chunk.js": "/my-react-portfolio/static/js/2.9a2ba8f3.chunk.js",
-    "static/js/2.9a2ba8f3.chunk.js.map": "/my-react-portfolio/static/js/2.9a2ba8f3.chunk.js.map",
+    "static/js/2.eea11fb3.chunk.js": "/my-react-portfolio/static/js/2.eea11fb3.chunk.js",
+    "static/js/2.eea11fb3.chunk.js.map": "/my-react-portfolio/static/js/2.eea11fb3.chunk.js.map",
     "index.html": "/my-react-portfolio/index.html",
-    "static/css/main.04a5e723.chunk.css.map": "/my-react-portfolio/static/css/main.04a5e723.chunk.css.map",
-    "static/js/2.9a2ba8f3.chunk.js.LICENSE.txt": "/my-react-portfolio/static/js/2.9a2ba8f3.chunk.js.LICENSE.txt",
-    "static/media/extrasbnw.e4a06387.png": "/my-react-portfolio/static/media/extrasbnw.e4a06387.png",
-    "static/media/extrasbnwcrop.f0bed650.png": "/my-react-portfolio/static/media/extrasbnwcrop.f0bed650.png",
-    "static/media/mishabnw.8296f39e.png": "/my-react-portfolio/static/media/mishabnw.8296f39e.png",
-    "static/media/mishabnwcrop.062f8578.png": "/my-react-portfolio/static/media/mishabnwcrop.062f8578.png"
+    "static/css/main.662c9225.chunk.css.map": "/my-react-portfolio/static/css/main.662c9225.chunk.css.map",
+    "static/js/2.eea11fb3.chunk.js.LICENSE.txt": "/my-react-portfolio/static/js/2.eea11fb3.chunk.js.LICENSE.txt",
+    "static/media/extrasbnwcrop.6bff60be.png": "/my-react-portfolio/static/media/extrasbnwcrop.6bff60be.png",
+    "static/media/mishabnwcrop.b6add21c.png": "/my-react-portfolio/static/media/mishabnwcrop.b6add21c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3b168e52.js",
-    "static/js/2.9a2ba8f3.chunk.js",
-    "static/css/main.04a5e723.chunk.css",
-    "static/js/main.7908cd82.chunk.js"
+    "static/js/2.eea11fb3.chunk.js",
+    "static/css/main.662c9225.chunk.css",
+    "static/js/main.ddfaa316.chunk.js"
   ]
 }

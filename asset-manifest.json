@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/my-react-portfolio/static/css/main.3bbe098a.chunk.css",
-    "main.js": "/my-react-portfolio/static/js/main.838d82ad.chunk.js",
-    "main.js.map": "/my-react-portfolio/static/js/main.838d82ad.chunk.js.map",
+    "main.css": "/my-react-portfolio/static/css/main.f0fdc311.chunk.css",
+    "main.js": "/my-react-portfolio/static/js/main.3c4eb3a2.chunk.js",
+    "main.js.map": "/my-react-portfolio/static/js/main.3c4eb3a2.chunk.js.map",
     "runtime-main.js": "/my-react-portfolio/static/js/runtime-main.3b168e52.js",
     "runtime-main.js.map": "/my-react-portfolio/static/js/runtime-main.3b168e52.js.map",
     "static/js/2.393b4435.chunk.js": "/my-react-portfolio/static/js/2.393b4435.chunk.js",
     "static/js/2.393b4435.chunk.js.map": "/my-react-portfolio/static/js/2.393b4435.chunk.js.map",
     "index.html": "/my-react-portfolio/index.html",
-    "static/css/main.3bbe098a.chunk.css.map": "/my-react-portfolio/static/css/main.3bbe098a.chunk.css.map",
+    "static/css/main.f0fdc311.chunk.css.map": "/my-react-portfolio/static/css/main.f0fdc311.chunk.css.map",
     "static/js/2.393b4435.chunk.js.LICENSE.txt": "/my-react-portfolio/static/js/2.393b4435.chunk.js.LICENSE.txt",
     "static/media/extrasbnwcrop.6bff60be.png": "/my-react-portfolio/static/media/extrasbnwcrop.6bff60be.png",
     "static/media/mishabnwcrop.b6add21c.png": "/my-react-portfolio/static/media/mishabnwcrop.b6add21c.png",
-    "static/media/phoneme.254428d1.png": "/my-react-portfolio/static/media/phoneme.254428d1.png",
+    "static/media/phoneme.03457013.png": "/my-react-portfolio/static/media/phoneme.03457013.png",
+    "static/media/phoneme2.810a041f.png": "/my-react-portfolio/static/media/phoneme2.810a041f.png",
     "static/media/techblog.1a72db65.png": "/my-react-portfolio/static/media/techblog.1a72db65.png",
     "static/media/veganpals.7a201609.png": "/my-react-portfolio/static/media/veganpals.7a201609.png",
     "static/media/workouttracker.b6652f0c.png": "/my-react-portfolio/static/media/workouttracker.b6652f0c.png"
@@ -20,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.3b168e52.js",
     "static/js/2.393b4435.chunk.js",
-    "static/css/main.3bbe098a.chunk.css",
-    "static/js/main.838d82ad.chunk.js"
+    "static/css/main.f0fdc311.chunk.css",
+    "static/js/main.3c4eb3a2.chunk.js"
   ]
 }

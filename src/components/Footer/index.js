@@ -5,7 +5,7 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <Navbar className="footer">
-      written and directed by <text className="text">Quentin Tarantino. </text>{" "}
+      written and directed by <text className="text">Quentin Tarantino</text>.
       Mihaela Shtebunaeva
     </Navbar>
   );

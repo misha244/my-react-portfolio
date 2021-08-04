@@ -3,3 +3,10 @@
   flex-wrap: wrap;
   flex-direction: row;
 }
+.title-container {
+  background-color: var(--riflegreen);
+  color: var(--lavender);
+  text-align: center;
+  padding: 2rem;
+  margin-bottom: 3rem;
+}

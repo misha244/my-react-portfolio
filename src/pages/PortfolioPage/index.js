@@ -17,6 +17,9 @@ const PortfolioPage = (props) => {
   return (
     <div>
       <Header />
+      <h3 className="title-container">
+        CHECK OUT SOME PROJECTS I'VE WORKED ON
+      </h3>
       <Container className="cards-container">{renderProjects()}</Container>
     </div>
   );

@@ -6,8 +6,8 @@
 }
 
 .title-container {
-  background-color: var(--lavender);
-  color: var(--riflegreen);
+  background-color: var(--riflegreen);
+  color: var(--lavender);
   text-align: center;
   padding: 2rem;
 }

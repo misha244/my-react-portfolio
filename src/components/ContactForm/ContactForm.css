@@ -8,13 +8,15 @@
 .contact-form-container {
   margin: auto;
   display: flex;
+  flex-direction: row;
   color: var(--bone);
   padding: 5rem;
 }
 .phoneimg {
-  width: 35vw;
+  height: 20vw;
+  margin: 1rem;
 }
 .contact-form {
-  width: 55vw;
   color: var(--bone);
+  width: 40vw;
 }

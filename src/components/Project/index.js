@@ -1,4 +1,5 @@
 import Card from "react-bootstrap/Card";
+import Button from "react-bootstrap/Button";
 
 import "./Project.css";
 
@@ -14,22 +15,13 @@ const Project = (props) => {
       <Card.Body>
         <Card.Title className="title">{props.data.title}</Card.Title>
         <Card.Text className="description">{props.data.description}</Card.Text>
-        <div>
-          <a
-            className="links"
-            href={props.data.githubLink}
-            target="_blank"
-            rel="noreferrer"
-          >
-            PROJECT REPO
+        <div className="button-container">
+          <a href={props.data.githubLink}>
+            <Button className="links">PROJECT REPO</Button>
           </a>
-          <a
-            className="links"
-            href={props.data.deployedLink}
-            target="_blank"
-            rel="noreferrer"
-          >
-            PROJECT IN ACTION
+
+          <a href={props.data.deployedLink}>
+            <Button className="links">PROJECT IN ACTION </Button>
           </a>
         </div>
       </Card.Body>

@@ -9,23 +9,31 @@
   justify-content: center;
   text-align: center;
   margin: 2rem;
-  height: 25rem;
-  width: 18rem;
+  height: 30rem;
+  width: 22rem;
   border: 5px solid var(--lavender);
   background-color: var(--lavender);
+  color: var(--riflegreen);
 }
 .title {
   font-size: 2rem;
+  height: 3rem;
 }
 .image {
-  height: 10rem;
+  object-fit: cover;
 }
 .description {
-  height: 7rem;
+  height: 6rem;
+}
+.button-container {
+  display: flex;
+  margin-bottom: 1rem;
 }
 .links {
   text-decoration: none;
-  color: var(--jet);
-  padding: 0.3rem;
+  color: var(--riflegreen);
   font-weight: bold;
+  background-color: var(--bone);
+  margin: 0.3rem;
+  border: #414833;
 }

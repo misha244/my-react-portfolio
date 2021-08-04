@@ -1,10 +1,12 @@
 import { v4 as uuidv4 } from "uuid";
 
-import CardGroup from "react-bootstrap/CardGroup";
-import Header from "../../components/Header";
+import Container from "react-bootstrap/Container";
 
+import Header from "../../components/Header";
 import Project from "../../components/Project";
 import projects from "../../assets/projects";
+
+import "./PortfolioPage.css";
 
 const PortfolioPage = (props) => {
   const renderProjects = () => {
@@ -15,7 +17,7 @@ const PortfolioPage = (props) => {
   return (
     <div>
       <Header />
-      <CardGroup>{renderProjects()}</CardGroup>
+      <Container className="cards-container">{renderProjects()}</Container>
     </div>
   );
 };

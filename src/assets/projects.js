@@ -14,7 +14,7 @@ const projects = [
   },
 
   {
-    title: "React Workout Tracker",
+    title: "Workout Tracker",
     description:
       "Workout Tracker allows the user to view, create and track their daily workouts. They can add exercises to compile their workout via a variety of parameters.",
     image: workouttracker,
